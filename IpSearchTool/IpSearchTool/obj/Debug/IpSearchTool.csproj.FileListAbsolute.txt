@@ -1,0 +1,14 @@
+C:\Users\Administrador\Desktop\IPSearchTool\IpSearchTool\IpSearchTool\obj\Debug\IpSearchTool.IpSearch.resources
+C:\Users\Administrador\Desktop\IPSearchTool\IpSearchTool\IpSearchTool\obj\Debug\IpSearchTool.Properties.Resources.resources
+C:\Users\Administrador\Desktop\IPSearchTool\IpSearchTool\IpSearchTool\obj\Debug\IpSearchTool.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\IPSearchTool\IpSearchTool\IpSearchTool\bin\Debug\IpSearchTool.exe.config
+C:\Users\Administrador\Desktop\IPSearchTool\IpSearchTool\IpSearchTool\bin\Debug\IpSearchTool.exe
+C:\Users\Administrador\Desktop\IPSearchTool\IpSearchTool\IpSearchTool\bin\Debug\IpSearchTool.pdb
+C:\Users\Administrador\Desktop\IPSearchTool\IpSearchTool\IpSearchTool\bin\Debug\DsNetLib.dll
+C:\Users\Administrador\Desktop\IPSearchTool\IpSearchTool\IpSearchTool\bin\Debug\DsNetLib.pdb
+C:\Users\Administrador\Desktop\IPSearchTool\IpSearchTool\IpSearchTool\obj\Debug\IpSearchTool.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\IPSearchTool\IpSearchTool\IpSearchTool\obj\Debug\IpSearchTool.exe
+C:\Users\Administrador\Desktop\IPSearchTool\IpSearchTool\IpSearchTool\obj\Debug\IpSearchTool.pdb
+E:\DESENVOLVIMENTO - USR TCP\IPSearchTool\IpSearchTool\IpSearchTool\bin\Debug\IpSearchTool.exe.config
+E:\DESENVOLVIMENTO - USR TCP\IPSearchTool\IpSearchTool\IpSearchTool\obj\Debug\IpSearchTool.exe
+E:\DESENVOLVIMENTO - USR TCP\IPSearchTool\IpSearchTool\IpSearchTool\obj\Debug\IpSearchTool.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpSearchTool", "IpSearchTool\IpSearchTool.csproj", "{7302DF1E-5FEC-45AF-8D35-C32819497465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DsNetLib", "DsNetLib\DsNetLib.csproj", "{05CE576F-AD66-4324-8DEA-3CB7F4E64A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7302DF1E-5FEC-45AF-8D35-C32819497465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7302DF1E-5FEC-45AF-8D35-C32819497465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7302DF1E-5FEC-45AF-8D35-C32819497465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7302DF1E-5FEC-45AF-8D35-C32819497465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CE576F-AD66-4324-8DEA-3CB7F4E64A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CE576F-AD66-4324-8DEA-3CB7F4E64A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CE576F-AD66-4324-8DEA-3CB7F4E64A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CE576F-AD66-4324-8DEA-3CB7F4E64A02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
